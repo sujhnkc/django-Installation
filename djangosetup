@@ -1,0 +1,17 @@
+Let's start and setup django in local PC:
+
+
+Step 1: conda install -c anaconda django 
+Step 2: python -m django --version
+Step 3: django-admin startproject mysite
+
+django setup in local PC is successful now.
+
+Let's start the server:
+
+Step 1: cd "name of your project", E.g. cd mysite
+Step 2: python manage.py runserver
+
+
+That's all. Now code and enjoy!
+
